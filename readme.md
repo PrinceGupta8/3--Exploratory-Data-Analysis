@@ -111,9 +111,3 @@ The project is divided into the following key steps:
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
